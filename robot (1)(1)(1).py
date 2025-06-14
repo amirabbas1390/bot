@@ -28,7 +28,7 @@ for module_name in required_packages:
 from pyrubi import Client
 from pyrubi.types import Message
 import requests
-import random
+import random#
 import jdatetime
 from datetime import datetime
 from datetime import datetime, timedelta
@@ -42,7 +42,7 @@ import threading
 import regex
 import copy
 import base64
-bot=Client('soroosh_alfo')
+bot=Client("amir_tiger")
 first_message_time = None
 
 message_times = []
